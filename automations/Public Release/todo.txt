@@ -1,0 +1,2 @@
+1. counter party must have leading 0. 13 characters
+2. Zip files and put folder one level above -DONE

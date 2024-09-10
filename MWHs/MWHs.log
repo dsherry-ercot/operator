@@ -1,0 +1,163 @@
+2024-07-26 14:58:57 - INFO - MWHs. - 43 - Starting LTAS MWHs pull
+2024-07-26 14:58:57 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS10 (2018.1st6 - 2020.2nd6)\B10_2018_1st6_Annual_Seq1
+2024-07-26 14:58:57 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS10 (2018.1st6 - 2020.2nd6)\B10_2018_2nd6_Annual_Seq2
+2024-07-26 14:58:59 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 14:58:59 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS10 (2018.1st6 - 2020.2nd6)\B10_2019_1st6_Annual_Seq3
+2024-07-26 14:58:59 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS10 (2018.1st6 - 2020.2nd6)\B10_2019_2nd6_Annual_Seq4
+2024-07-26 14:59:01 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 14:59:01 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS10 (2018.1st6 - 2020.2nd6)\B10_2020_1st6_Annual_Seq5
+2024-07-26 14:59:01 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS10 (2018.1st6 - 2020.2nd6)\B10_2020_2nd6_Annual_Seq6
+2024-07-26 14:59:01 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS11 (2018.2nd6 - 2021.1st6)\B11_2018_2nd6_Annual_Seq1
+2024-07-26 14:59:03 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 14:59:03 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS11 (2018.2nd6 - 2021.1st6)\B11_2019_1st6_Annual_Seq2
+2024-07-26 14:59:03 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS11 (2018.2nd6 - 2021.1st6)\B11_2019_2nd6_Annual_Seq3
+2024-07-26 14:59:03 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS11 (2018.2nd6 - 2021.1st6)\B11_2020_1st6_Annual_Seq4
+2024-07-26 14:59:06 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 14:59:06 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS11 (2018.2nd6 - 2021.1st6)\B11_2020_2nd6_Annual_Seq5
+2024-07-26 14:59:07 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS11 (2018.2nd6 - 2021.1st6)\B11_2021_1st6_Annual_Seq6
+2024-07-26 14:59:09 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 14:59:09 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS12 (2019.1st6 - 2021.2nd6)\B12_2019_1st6_Annual_Seq1
+2024-07-26 14:59:09 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS12 (2019.1st6 - 2021.2nd6)\B12_2019_2nd6_Annual_Seq2
+2024-07-26 14:59:13 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS12 (2019.1st6 - 2021.2nd6)\B12_2020_1st6_Annual_Seq3
+2024-07-26 14:59:16 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS12 (2019.1st6 - 2021.2nd6)\B12_2020_2nd6_Annual_Seq4
+2024-07-26 14:59:18 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS12 (2019.1st6 - 2021.2nd6)\B12_2021_1st6_Annual_Seq5
+2024-07-26 14:59:20 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS12 (2019.1st6 - 2021.2nd6)\B12_2021_2nd6_Annual_Seq6
+2024-07-26 14:59:23 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS13 (2019.2nd6 - 2022.1st6)\B13_2019_2nd6_Annual_Seq1
+2024-07-26 14:59:26 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS13 (2019.2nd6 - 2022.1st6)\B13_2020_1st6_Annual_Seq2
+2024-07-26 14:59:29 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS13 (2019.2nd6 - 2022.1st6)\B13_2020_2nd6_Annual_Seq3
+2024-07-26 14:59:33 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS13 (2019.2nd6 - 2022.1st6)\B13_2021_1st6_Annual_Seq4
+2024-07-26 14:59:37 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS13 (2019.2nd6 - 2022.1st6)\B13_2021_2nd6_Annual_Seq5
+2024-07-26 14:59:43 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS13 (2019.2nd6 - 2022.1st6)\B13_2022_1st6_Annual_Seq6
+2024-07-26 14:59:47 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS14 (2020.1st6 - 2022.2nd6)\B14_2020_1st6_Annual_Seq1 (Transaction Adjustment Period)
+2024-07-26 14:59:48 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS14 (2020.1st6 - 2022.2nd6)\B14_2020_2nd6_Annual_Seq2
+2024-07-26 14:59:52 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS14 (2020.1st6 - 2022.2nd6)\B14_2021_1st6_Annual_Seq3
+2024-07-26 14:59:54 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS14 (2020.1st6 - 2022.2nd6)\B14_2021_2nd6_Annual_Seq4
+2024-07-26 14:59:57 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS14 (2020.1st6 - 2022.2nd6)\B14_2022_1st6_Annual_Seq5
+2024-07-26 14:59:58 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 14:59:58 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS14 (2020.1st6 - 2022.2nd6)\B14_2022_2nd6_Annual_Seq6
+2024-07-26 15:00:03 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS15 (2020.2nd6 - 2023.1st6)\B15_2020_2nd6_Annual_Seq1
+2024-07-26 15:00:07 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS15 (2020.2nd6 - 2023.1st6)\B15_2021_1st6_Annual_Seq2
+2024-07-26 15:00:10 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS15 (2020.2nd6 - 2023.1st6)\B15_2021_2nd6_Annual_Seq3
+2024-07-26 15:00:13 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS15 (2020.2nd6 - 2023.1st6)\B15_2022_1st6_Annual_Seq4
+2024-07-26 15:00:16 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS15 (2020.2nd6 - 2023.1st6)\B15_2022_2nd6_Annual_Seq5
+2024-07-26 15:00:18 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS15 (2020.2nd6 - 2023.1st6)\B15_2023_1st6_Annual_Seq6
+2024-07-26 15:00:20 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS16 (2021.1st6 - 2023.2nd6)\B16_2021_1st6_Annual_Seq1
+2024-07-26 15:00:23 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS16 (2021.1st6 - 2023.2nd6)\B16_2021_2nd6_Annual_Seq2
+2024-07-26 15:00:26 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS16 (2021.1st6 - 2023.2nd6)\B16_2022_1st6_Annual_Seq3
+2024-07-26 15:00:29 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS16 (2021.1st6 - 2023.2nd6)\B16_2022_2nd6_Annual_Seq4
+2024-07-26 15:00:31 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS16 (2021.1st6 - 2023.2nd6)\B16_2023_1st6_Annual_Seq5
+2024-07-26 15:00:34 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS16 (2021.1st6 - 2023.2nd6)\B16_2023_2nd6_Annual_Seq6
+2024-07-26 15:00:36 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS17 (2021.2nd6 - 2024.1st6)\B17_2021_2nd6_Annual_Seq1
+2024-07-26 15:00:38 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS17 (2021.2nd6 - 2024.1st6)\B17_2022_1st6_Annual_Seq2
+2024-07-26 15:00:38 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS17 (2021.2nd6 - 2024.1st6)\B17_2022_2nd6_Annual_Seq3
+2024-07-26 15:00:42 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS17 (2021.2nd6 - 2024.1st6)\B17_2023_1st6_Annual_Seq4
+2024-07-26 15:00:47 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS17 (2021.2nd6 - 2024.1st6)\B17_2023_2nd6_Annual_Seq5
+2024-07-26 15:00:50 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS17 (2021.2nd6 - 2024.1st6)\B17_2024_1st6_Annual_Seq6
+2024-07-26 15:00:52 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS18 (2022.1st6 - 2024.2nd6)\B18_2022_1st6_Annual_Seq1
+2024-07-26 15:00:55 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS18 (2022.1st6 - 2024.2nd6)\B18_2022_2nd6_Annual_Seq2
+2024-07-26 15:00:59 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS18 (2022.1st6 - 2024.2nd6)\B18_2023_1st6_Annual_Seq3
+2024-07-26 15:01:02 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS18 (2022.1st6 - 2024.2nd6)\B18_2023_2nd6_Annual_Seq4
+2024-07-26 15:01:04 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS18 (2022.1st6 - 2024.2nd6)\B18_2024_1st6_Annual_Seq5
+2024-07-26 15:01:08 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS18 (2022.1st6 - 2024.2nd6)\B18_2024_2nd6_Annual_Seq6
+2024-07-26 15:01:10 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS19 (2022.2nd6 - 2025.1st6)\B19_2022_2nd6_Annual_Seq1
+2024-07-26 15:01:14 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS19 (2022.2nd6 - 2025.1st6)\B19_2023_1st6_Annual_Seq2
+2024-07-26 15:01:17 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS19 (2022.2nd6 - 2025.1st6)\B19_2023_2nd6_Annual_Seq3
+2024-07-26 15:01:19 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS19 (2022.2nd6 - 2025.1st6)\B19_2024_1st6_Annual_Seq4
+2024-07-26 15:01:19 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS19 (2022.2nd6 - 2025.1st6)\B19_2024_2nd6_Annual_Seq5
+2024-07-26 15:01:22 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS19 (2022.2nd6 - 2025.1st6)\B19_2025_1st6_Annual_Seq6
+2024-07-26 15:01:24 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS20 (2023.1st6 - 2025.2nd6)\B20_2023_1st6_Annual_Seq1
+2024-07-26 15:01:28 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS20 (2023.1st6 - 2025.2nd6)\B20_2023_2nd6_Annual_Seq2
+2024-07-26 15:01:31 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS20 (2023.1st6 - 2025.2nd6)\B20_2024_1st6_Annual_Seq3
+2024-07-26 15:01:34 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS20 (2023.1st6 - 2025.2nd6)\B20_2024_2nd6_Annual_Seq4
+2024-07-26 15:01:37 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS20 (2023.1st6 - 2025.2nd6)\B20_2025_1st6_Annual_Seq5
+2024-07-26 15:01:39 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS20 (2023.1st6 - 2025.2nd6)\B20_2025_2nd6_Annual_Seq6
+2024-07-26 15:01:41 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS21 (2023.2nd6 - 2026.1st6)\B21_2023_2nd6_Annual_Seq1
+2024-07-26 15:01:45 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS21 (2023.2nd6 - 2026.1st6)\B21_2024_1st6_Annual_Seq2
+2024-07-26 15:01:48 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS21 (2023.2nd6 - 2026.1st6)\B21_2024_2nd6_Annual_Seq3
+2024-07-26 15:01:52 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS21 (2023.2nd6 - 2026.1st6)\B21_2025_1st6_Annual_Seq4
+2024-07-26 15:01:55 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS21 (2023.2nd6 - 2026.1st6)\B21_2025_2nd6_Annual_Seq5
+2024-07-26 15:01:57 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS21 (2023.2nd6 - 2026.1st6)\B21_2026_1st6_Annual_Seq6
+2024-07-26 15:02:00 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS22 (2024.1st6 - 2026.2nd6)\B22_2024_1st6_Annual_Seq1
+2024-07-26 15:02:04 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS22 (2024.1st6 - 2026.2nd6)\B22_2024_2nd6_Annual_Seq2
+2024-07-26 15:02:07 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS22 (2024.1st6 - 2026.2nd6)\B22_2025_1st6_Annual_Seq3
+2024-07-26 15:02:10 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS22 (2024.1st6 - 2026.2nd6)\B22_2025_2nd6_Annual_Seq4
+2024-07-26 15:02:14 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS22 (2024.1st6 - 2026.2nd6)\B22_2026_1st6_Annual_Seq5
+2024-07-26 15:02:17 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS22 (2024.1st6 - 2026.2nd6)\B22_2026_2nd6_Annual_Seq6
+2024-07-26 15:02:19 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS23 (2024.2nd6 - 2027.1st6)\B23_2024_2nd6_Annual_Seq1
+2024-07-26 15:02:21 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS23 (2024.2nd6 - 2027.1st6)\B23_2025_1st6_Annual_Seq2
+2024-07-26 15:02:23 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS23 (2024.2nd6 - 2027.1st6)\B23_2025_2nd6_Annual_Seq3
+2024-07-26 15:02:27 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS23 (2024.2nd6 - 2027.1st6)\B23_2026_1st6_Annual_Seq4
+2024-07-26 15:02:27 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS23 (2024.2nd6 - 2027.1st6)\B23_2026_2nd6_Annual_Seq5
+2024-07-26 15:02:27 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 15:02:27 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS7 (2016.2nd6 - 2018.1st6)\B7_2017_2nd6_Annual_Seq3
+2024-07-26 15:02:27 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS8 (2017.1st6 - 2018.2nd6)\B8_2018_2nd6_Annual_Seq4
+2024-07-26 15:02:29 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 15:02:29 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS9 (2017.2nd6 - 2019.1st6)\B9_2017_2nd6_Annual_Seq1
+2024-07-26 15:02:31 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 15:02:31 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS9 (2017.2nd6 - 2019.1st6)\B9_2018_1st6_Annual_Seq2
+2024-07-26 15:02:32 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 15:02:32 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS9 (2017.2nd6 - 2019.1st6)\B9_2018_2nd6_Annual_Seq3
+2024-07-26 15:02:34 - ERROR - MWHs. - 59 - Could not open and read file specified
+2024-07-26 15:02:34 - INFO - MWHs. - 54 - Grabbing data from: Q:\CRR GoLive\Auction_Files\LTAS_Auctions\LTAS9 (2017.2nd6 - 2019.1st6)\B9_2019_1st6_Annual_Seq4
+2024-07-26 15:02:34 - INFO - MWHs. - 64 - This took 217.58425998687744 seconds
+2024-07-26 15:02:34 - INFO - MWHs. - 18 - Starting Monthly MWHs pull
+2024-07-26 15:02:34 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_01_JAN
+2024-07-26 15:02:37 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_02_FEB
+2024-07-26 15:02:39 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_03_MAR
+2024-07-26 15:02:41 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_04_APR
+2024-07-26 15:02:44 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_05_MAY
+2024-07-26 15:02:47 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_06_JUN
+2024-07-26 15:02:49 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_07_JUL
+2024-07-26 15:02:52 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_08_AUG
+2024-07-26 15:02:54 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_09_SEP
+2024-07-26 15:02:57 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_10_OCT
+2024-07-26 15:03:00 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_11_NOV
+2024-07-26 15:03:04 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\2020_12_DEC
+2024-07-26 15:03:06 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2020\EngineData
+2024-07-26 15:03:06 - ERROR - MWHs. - 35 - Could not open and read file specified
+2024-07-26 15:03:06 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_01_JAN
+2024-07-26 15:03:09 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_02_FEB
+2024-07-26 15:03:12 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_03_MAR
+2024-07-26 15:03:15 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_04_APR
+2024-07-26 15:03:17 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_05_MAY
+2024-07-26 15:03:19 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_06_JUN
+2024-07-26 15:03:22 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_07_JUL
+2024-07-26 15:03:23 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_08_AUG
+2024-07-26 15:03:25 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_09_SEP
+2024-07-26 15:03:28 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_10_OCT
+2024-07-26 15:03:31 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_11_NOV
+2024-07-26 15:03:39 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2021\2021_12_DEC
+2024-07-26 15:03:42 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_01_JAN
+2024-07-26 15:03:45 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_02_FEB
+2024-07-26 15:03:48 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_03_MAR
+2024-07-26 15:03:51 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_04_APR
+2024-07-26 15:03:54 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_05_MAY
+2024-07-26 15:03:56 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_06_JUN
+2024-07-26 15:03:59 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_07_JUL
+2024-07-26 15:04:01 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_08_AUG
+2024-07-26 15:04:04 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_09_SEP
+2024-07-26 15:04:06 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_10_OCT
+2024-07-26 15:04:09 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_11_NOV
+2024-07-26 15:04:12 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2022\2022_12_DEC
+2024-07-26 15:04:15 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_01_JAN
+2024-07-26 15:04:18 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_02_FEB
+2024-07-26 15:04:21 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_03_MAR
+2024-07-26 15:04:25 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_04_APR
+2024-07-26 15:04:28 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_05_MAY
+2024-07-26 15:04:32 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_06_JUN
+2024-07-26 15:04:36 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_07_JUL
+2024-07-26 15:04:39 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_08_AUG
+2024-07-26 15:04:42 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_09_SEP
+2024-07-26 15:04:42 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_10_OCT
+2024-07-26 15:04:46 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_11_NOV
+2024-07-26 15:04:49 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2023\2023_12_DEC
+2024-07-26 15:04:52 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_01_JAN
+2024-07-26 15:04:55 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_02_FEB
+2024-07-26 15:04:58 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_03_MAR
+2024-07-26 15:05:02 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_04_APR
+2024-07-26 15:05:07 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_05_MAY
+2024-07-26 15:05:10 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_06_JUN
+2024-07-26 15:05:13 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_07_JUL
+2024-07-26 15:05:17 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_08_AUG
+2024-07-26 15:05:20 - INFO - MWHs. - 30 - Grabbing data from: Q:\CRR GoLive\Auction_Files\Monthly_Auctions\2024\2024_09_SEP
+2024-07-26 15:05:20 - ERROR - MWHs. - 35 - Could not open and read file specified

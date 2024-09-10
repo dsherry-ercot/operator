@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "OperatorTool"
+version = "0.1.0"
+description = ""
+authors = ["Sherry, Daniel <Daniel.Sherry@ercot.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+streamlit = "^1.38.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
